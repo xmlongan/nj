@@ -5,7 +5,7 @@ A Simulated Method of Moment (SMM) for estimation of the economic model of NeiJu
 ## Installation
 First, you should install `R` and `Rtools`. Then, install an Integrated Development Environment (IDE), such as `RStudio`.
 
-Finally, running following codes in the console of the IDE to install the package `nj`.
+Finally, running following codes in the console of the IDE (`RStudio`) to install the package `nj`.
 
 ```R
 library(devtools)
