@@ -19,3 +19,8 @@ Running following code to see the help documentation for the function `sa`:
 library(nj)
 ?sa
 ```
+## Preliminary Experiments
+
+初步的实验可参考文档：
+
+[http://www.yyschools.com/wang-problem.html](http://www.yyschools.com/wang-problem.html)
